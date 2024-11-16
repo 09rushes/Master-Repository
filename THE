@@ -1,7 +1,5 @@
 phicdn.net
 idiagnostics.apple.com
-gsas.idms-apple.com.akadns.net
-gsas.apple.com
 ess.apple.com
 content.apple.com
 apps.apple.com
@@ -344,7 +342,6 @@ appleweather-cache.internal.query.g03.yahoodns.net
 apps.apple.com
 apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
-apps.mzstatic.com
 apptrailers.itunes.apple.com
 apptrailers.itunes.g.aaplimg.com
 apsu.apple.com
@@ -458,8 +455,6 @@ gdcrl.godaddy.com.akadns.net
 geo.itunes.apple.com
 gs.apple.com
 gs.apple.com.akadns.net
-gsas.apple.com
-gsas.apple.com.akadns.net
 gs-loc.apple.com
 gsp10-ssl.apple.com
 gsp1.apple.com
@@ -919,7 +914,6 @@ partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 pcr.apple.com
 pcr.itunes-apple.com.akadns.net
-pd.itunes.apple.com
 pd-nk.itunes.apple.com
 pd-nk.itunes-apple.com.akadns.net
 pd-st.itunes.apple.com
