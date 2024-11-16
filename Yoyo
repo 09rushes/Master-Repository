@@ -398,9 +398,6 @@ commnat-cohort.ess.apple.com
 commnat-cohort-gc.ess.apple.com
 commnat-main.ess.apple.com
 commnat-main-gc.ess.apple.com
-configuration.apple.com
-configuration.apple.com.akadns.net
-configuration.apple.com.edgekey.net
 cvws.apple-dns.net
 daypass.api-aka.smoot.apple.com
 daypass.api-glb-atl.smoot.apple.com
@@ -458,8 +455,6 @@ gbman.ce.apple-dns.net
 gcs-eu-00002.content-storage-download.googleapis.com
 gdcrl.godaddy.com.akadns.net
 geo.itunes.apple.com
-gsa.apple.com
-gsa.apple.com.akadns.net
 gs.apple.com
 gs.apple.com.akadns.net
 gsas.apple.com
@@ -998,7 +993,6 @@ static.deviceservices.apple.com
 static.ess.apple.com
 static.gc.apple.com
 static.gc.apple.com.edgekey.net
-statici.icloud.com
 static.ips.apple.com
 store-005.blobstore.apple.com
 store-005.blobstore-apple.com.akadns.net
