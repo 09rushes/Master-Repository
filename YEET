@@ -341,7 +341,6 @@ apple.news
 appleweather-cache.internal.query.g03.yahoodns.net
 apps.apple.com
 apps.itunes-nocookie.com
-apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apptrailers.itunes.apple.com
 apptrailers.itunes.g.aaplimg.com
 apsu.apple.com
@@ -381,8 +380,6 @@ cl2.apple.com
 cl2-cdn.origin-apple.com.akadns.net
 cl3.apple.com
 cl3-cdn.origin-apple.com.akadns.net
-cl4.apple.com
-cl4-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 cl5-cdn.origin-apple.com.akadns.net
 client-api-cdn.itunes-apple.com.akadns.net
