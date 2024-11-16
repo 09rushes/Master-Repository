@@ -2,7 +2,6 @@ phicdn.net
 idiagnostics.apple.com
 ess.apple.com
 content.apple.com
-apps.apple.com
 smoot.apple.com
 fmipmobile.icloud.com
 0-courier.push.apple.com
@@ -411,7 +410,6 @@ dlc.nike.com.edgekey.net.globalredir.akadns.net
 dw-cbsi.cnet-basic-performance.akadns.net
 dzc-metrics.mzstatic.com
 e10489.a.akamaiedge.net
-e673.dsce9.akamaiedge.net
 e6858.dsce9.akamaiedge.net
 e.crashlytics.com
 edge-001.defra.ce.apple-dns.net
@@ -476,9 +474,6 @@ images.apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.gc.apple.com
-init.gc.apple.com.edgesuite.net
-init.itunes.apple.com
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
 init-p01st.push.apple.com
@@ -959,7 +954,6 @@ sb.music.apple.com
 sb.tv.apple.com
 se2.itunes.apple.com
 se-applak.itunes-apple.com.akadns.net
-search.itunes.apple.com
 searn.ce.apple-dns.net
 securemetrics.apple.com
 se-edge.itunes.apple.com
